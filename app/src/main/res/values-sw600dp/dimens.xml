@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_extra_small">6dp</dimen>
+    <dimen name="spacing_contact_gap">16dp</dimen>
+    <dimen name="icon_padding_end">12dp</dimen>
+    <dimen name="avatar_size">160dp</dimen>
+    <dimen name="text_size_name">32sp</dimen>
+    <dimen name="text_size_group">24sp</dimen>
+    <dimen name="text_size_contact">20sp</dimen>
+    <dimen name="spacing_large">40dp</dimen>
+</resources>
